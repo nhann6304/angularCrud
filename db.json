@@ -1,0 +1,93 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "catName": "Men"
+    },
+    {
+      "id": "2",
+      "catName": "Wonman"
+    }
+  ],
+  "product": [
+    {
+      "id": "fb14",
+      "proName": "Giày Thể Thao Nam MWC NATT- 5704",
+      "price": 295000,
+      "catId": 1,
+      "description": "Giày được thiết kế dáng buộc dây năng động,",
+      "image": "assets/images/mwc.jpg"
+    },
+    {
+      "id": "24dd",
+      "proName": "Giày Thể Thao Nam MWC NATT- 5495",
+      "price": 375000,
+      "catId": 1,
+      "description": "Đặc biệt sản phẩm sử dụng chất liệu cao cấp có độ bền tối ưu giúp bạn thoải mái trong mọi hoàn cảnh.",
+      "image": "assets/images/mwc1.jpg"
+    },
+    {
+      "id": "3a07",
+      "proName": "Giày Thể Thao Nam MWC NATT - 5345",
+      "price": 300000,
+      "catId": 1,
+      "description": "Thích hợp với mọi hoạt động: Sản phẩm thích hợp cho các hoạt động thể thao như: đi bộ, chạy bộ, đi làm, đi chơi hay tập luyện",
+      "image": "assets/images/mwc2.jpg"
+    },
+    {
+      "id": "69d8",
+      "proName": "Giày mọi nam MWC NAMO- 6647",
+      "price": 345000,
+      "catId": 1,
+      "description": "Giày mang đến cho người mang 1 phong cách năng động và trẻ trung.",
+      "image": "assets/images/mwc3.jpg"
+    },
+    {
+      "id": "318c",
+      "proName": "Giày Slipon nam MWC NASL- 6066",
+      "price": 295000,
+      "catId": 1,
+      "description": "Thiết kế dạng giày lười sỏ chân , mặt giày da trơn may viền tỉ mĩ , đế PVC ...",
+      "image": "assets/images/mwc4.jpg"
+    },
+    {
+      "id": "d36e",
+      "proName": "Giày sandal nam MWC NASD- 7076 Sandal Nam Quai Ngang Chữ H ",
+      "price": 195000,
+      "catId": 1,
+      "description": "Được thiết kế với 2 quai ngang chữ H, quai gót dán cố định châ",
+      "image": "assets/images/mwc5.jpg"
+    },
+    {
+      "id": "ffca",
+      "proName": "Giày cao gót MWC NUCG- G032",
+      "price": 250000,
+      "catId": 2,
+      "description": "Thiết kế dáng Slingback bít mũi bít gót với mặt giày trơn sử dụng chất liệu da tổng hợp thời trang.",
+      "image": "assets/images/mwc6.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "email": "huynhthanhnhan632004@gmail.com",
+      "password": "123",
+      "result": false
+    },
+    {
+      "id": "c162",
+      "Email": "admin@gmail.com",
+      "Password": "123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "fb14",
+      "proName": "Giày Thể Thao Nam MWC NATT- 5704",
+      "price": 295000,
+      "catId": 1,
+      "description": "Giày được thiết kế dáng buộc dây năng động,",
+      "image": "assets/images/mwc.jpg"
+    }
+  ]
+}
